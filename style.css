@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(20,189,172);
+  }
+  
+  #Board {
+    background: gray;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+  
+  .Box {
+    background-color: white;
+    display: inline-block;
+    border: 1px solid black;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 1;
+    font-size: 40px;
+    font-family: sans-serif;
+    vertical-align: top;
+  }
